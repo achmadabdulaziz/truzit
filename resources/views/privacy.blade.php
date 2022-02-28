@@ -2,7 +2,7 @@
 @extends('menulanding')
 @section('privacy')
 <body>
-        <div class="header-blue">
+        <div class="header">
             <nav class="navbar navbar-dark navbar-expand-md navigation-clean-search">
             <div class="col-md-12 p30">
             <div class="col-lg-6">
